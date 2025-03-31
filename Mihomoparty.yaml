@@ -228,7 +228,7 @@ rule-providers:
     format: text
     type: http
   EMBY:
-    url: https://raw.githubusercontent.com/cutethotw/ClashRule/main/Rule/Emby.yaml
+    url: https://raw.githubusercontent.com/Aftertea123/clashrules/refs/heads/main/Emby.yaml
     path: ./ruleset/EMBY.list
     behavior: classical
     interval: 86400
@@ -452,8 +452,15 @@ rules:
 +rules:
   - "DOMAIN-SUFFIX,baidu.com,DIRECT"
   - "DOMAIN-SUFFIX,tencent.com,DIRECT"
-  - "DOMAIN-SUFFIX,deepl.com,🚀 节点选择"
+  - "DOMAIN-SUFFIX,deepl.com,🛩️ 备用切换"
   - "PROCESS-NAME,VALORANT-Win64-Shipping.exe,DIRECT"
   - "PROCESS-NAME,LostCastle2.exe,DIRECT"
-  - "PROCESS-NAME,AbioticFactor-Win64-Shipping.exe,🐟 漏网之鱼"
-  - "PROCESS-NAME,For The King II.exe,🐟 漏网之鱼"
+  - "PROCESS-NAME,AbioticFactor-Win64-Shipping.exe,🛩️ 备用切换"
+  - "PROCESS-NAME,For The King II.exe,🛩️ 备用切换"
+  - "PROCESS-NAME,SocialClubHelper.exe,🛩️ 备用切换"
+  - "DST-PORT,6672,🛩️ 备用切换"
+  - "DST-PORT,61455,🛩️ 备用切换"
+  - "DST-PORT,61456,🛩️ 备用切换"
+  - "DST-PORT,61457,🛩️ 备用切换"
+  - "DST-PORT,61458,🛩️ 备用切换"
+  - "SRC-PORT,6672,🛩️ 备用切换"
