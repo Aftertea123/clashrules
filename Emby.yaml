@@ -1,6 +1,8 @@
 DOMAIN-SUFFIX,zox.show
 DOMAIN-KEYWORD,zox
 PROCESS-NAME,electron.exe
+PROCESS-NAME,com.mountains.hills
+PROCESS-NAME,com.mountains.hills (1000)
 DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,hills
 DOMAIN-KEYWORD,ednovas
