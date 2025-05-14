@@ -2,11 +2,9 @@
 
 ;设置规则标志位
 ruleset=🚀 国外流量,https://raw.githubusercontent.com/Aftertea123/clashrules/refs/heads/main/Clashverge/Clashrule.yaml
-ruleset=🐟 漏网之鱼,[]FINAL
 
 ;设置分组标志位
 custom_proxy_group=🚀 国外流量`select`.*
-custom_proxy_group=🐟 漏网之鱼`select`.*
 
 enable_rule_generator=true
 overwrite_original_rules=true
