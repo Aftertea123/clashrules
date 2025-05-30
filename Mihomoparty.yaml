@@ -469,3 +469,5 @@ rules:
   - "DST-PORT,61457,🛩️ 备用切换"
   - "DST-PORT,61458,🛩️ 备用切换"
   - "SRC-PORT,6672,🛩️ 备用切换"
+  - "PROCESS-NAME,hills.exe,🎬 EMBY"
+  - "DOMAIN,emby.younoyes.com,🎬 EMBY"
