@@ -1,7 +1,7 @@
 proxy-providers:
-  M&F:
+  Combination:
     type: http
-    url: "http://127.0.0.1:38324/download/collection/TEST?target=ClashMeta"
+    url: "http://127.0.0.1:38324/download/collection/Combination?target=Clash"
     interval: 18000
     health-check:
       enable: true
@@ -459,15 +459,12 @@ rules:
   - "DOMAIN-SUFFIX,tencent.com,DIRECT"
   - "DOMAIN-SUFFIX,deepl.com,🛩️ 备用切换"
   - "PROCESS-NAME,VALORANT-Win64-Shipping.exe,DIRECT"
+  - "PROCESS-NAME,parsec.exe,DIRECT"
   - "PROCESS-NAME,LostCastle2.exe,DIRECT"
+  - "PROCESS-NAME,VRising.exe,DIRECT"
   - "PROCESS-NAME,AbioticFactor-Win64-Shipping.exe,🛩️ 备用切换"
   - "PROCESS-NAME,For The King II.exe,🛩️ 备用切换"
   - "PROCESS-NAME,SocialClubHelper.exe,🛩️ 备用切换"
-  - "DST-PORT,6672,🛩️ 备用切换"
-  - "DST-PORT,61455,🛩️ 备用切换"
-  - "DST-PORT,61456,🛩️ 备用切换"
-  - "DST-PORT,61457,🛩️ 备用切换"
-  - "DST-PORT,61458,🛩️ 备用切换"
-  - "SRC-PORT,6672,🛩️ 备用切换"
   - "PROCESS-NAME,hills.exe,🎬 EMBY"
   - "DOMAIN,emby.younoyes.com,🎬 EMBY"
+
