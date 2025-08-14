@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,cdn1.jiedaibao.gs
+DOMAIN-SUFFIX,cdn2.jiedaibao.gs
 DOMAIN-SUFFIX,luoti2.wangdai.us
 DOMAIN-SUFFIX,tea.gcp.click
 PROCESS-NAME,Darktide.exe
@@ -28,4 +30,5 @@ IP-CIDR,205.196.6.0/24
 IP-CIDR,208.64.200.0/22
 IP-CIDR,208.78.164.0/22
 IP-CIDR,205.185.194.0/24
+
 
