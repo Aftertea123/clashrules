@@ -415,6 +415,7 @@ rule-providers:
     type: http
 
 rules:
+  - "RULE-SET,Steam,🎮 游戏平台"
   - "RULE-SET,LocalAreaNetwork,🎯 全球直连"
   - "RULE-SET,Pikpak,🎯 全球直连"
   - "RULE-SET,UnBan,🎯 全球直连"
@@ -441,7 +442,6 @@ rules:
   - "RULE-SET,Epic,🎮 游戏平台"
   - "RULE-SET,Origin,🎮 游戏平台"
   - "RULE-SET,Sony,🎮 游戏平台"
-  - "RULE-SET,Steam,🎮 游戏平台"
   - "RULE-SET,Nintendo,🎮 游戏平台"
   - "RULE-SET,YouTubeCN,📹 油管视频"
   - "RULE-SET,YouTube,📹 油管视频"
