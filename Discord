@@ -28,3 +28,4 @@ DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
 DOMAIN-SUFFIX,watchanimeattheoffice.com
 PROCESS-NAME,discord.exe
+PROCESS-NAME,com.discord
