@@ -27,7 +27,6 @@ DOMAIN-SUFFIX,discordsays.com
 DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
 DOMAIN-SUFFIX,watchanimeattheoffice.com
-PROCESS-NAME,discord.exe
 PROCESS-NAME,com.discord
 PROCESS-NAME,com.gbox.android
 PROCESS-NAME,com.gbox.android.priv
