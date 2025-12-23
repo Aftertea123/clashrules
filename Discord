@@ -31,4 +31,3 @@ DOMAIN-SUFFIX,watchanimeattheoffice.com
 PROCESS-NAME,com.discord
 PROCESS-NAME,com.gbox.android
 PROCESS-NAME,com.gbox.android.priv
-IP-CIDR,104.29.141.11/32,no-resolve
