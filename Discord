@@ -33,3 +33,4 @@ PROCESS-NAME,com.gbox.android
 PROCESS-NAME,com.gbox.android.priv
 IP-CIDR,104.29.141.11/32
 IP-CIDR,104.29.0.0/16,no-resolve
+IP-CIDR,35.215.0.0/16,no-resolve
