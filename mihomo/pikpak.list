@@ -1,6 +1,7 @@
 PROCESS-NAME,FactoryGameSteam.exe
 PROCESS-NAME,parsecd.exe
 PROCESS-NAME,bf6.exe
+PROCESS-NAME,PsPcSdkTelemetry.exe
 PROCESS-NAME,TIM.exe
 PROCESS-NAME,SlayTheSpire2.exe
 DOMAIN-SUFFIX,4.emzkdqdhcb7s.hxc6ursnvyk1.223789.xyz
