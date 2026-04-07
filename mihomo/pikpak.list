@@ -4,6 +4,8 @@ PROCESS-NAME,bf6.exe
 PROCESS-NAME,PsPcSdkTelemetry.exe
 PROCESS-NAME,TIM.exe
 PROCESS-NAME,SlayTheSpire2.exe
+PROCESS-NAME,Slay the Spire 2
+PROCESS-NAME,SlaytheSpire2
 DOMAIN-SUFFIX,4.emzkdqdhcb7s.hxc6ursnvyk1.223789.xyz
 DOMAIN-SUFFIX,cdn3.jiedaibao.gs
 DOMAIN-SUFFIX,bd.gcp.click
@@ -17,6 +19,7 @@ DOMAIN-KEYWORD,dl-a10b-
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,lax-cdn-test.uhdgo.net
 DOMAIN-SUFFIX,test2-cdn.uhdgo.net
+DOMAIN-SUFFIX,o102851.ingest.us.sentry.io
 
 
 
