@@ -26,17 +26,17 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,lax-cdn-test.uhdgo.net
 DOMAIN-SUFFIX,test2-cdn.uhdgo.net
 DOMAIN-SUFFIX,o102851.ingest.us.sentry.io
-PROCESS-NAME,TIM.exe,DIRECT
-PROCESS-NAME,QQ.exe,DIRECT
-PROCESS-NAME,WeChat.exe,DIRECT
-PROCESS-NAME,Weixin.exe,DIRECT
-DOMAIN,localhost.weixin.qq.com,DIRECT
-DOMAIN,ts1.qq.com,DIRECT
-DOMAIN-SUFFIX,qq.com,DIRECT
-DOMAIN-SUFFIX,tencent.com,DIRECT
-DOMAIN-SUFFIX,weixin.qq.com,DIRECT
-DOMAIN-SUFFIX,wechat.com,DIRECT
-IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+PROCESS-NAME,TIM.exe
+PROCESS-NAME,QQ.exe
+PROCESS-NAME,WeChat.exe
+PROCESS-NAME,Weixin.exe
+DOMAIN,localhost.weixin.qq.com
+DOMAIN,ts1.qq.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wechat.com
+IP-CIDR,127.0.0.0/8,no-resolve
 
 
 
