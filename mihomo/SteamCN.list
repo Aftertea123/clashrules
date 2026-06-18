@@ -1,24 +1,41 @@
-# 内容：SteamCN（国区下载直连）
-# 数量：20条（+1 可选）
-DOMAIN-SUFFIX,steamstatic.com
+# 内容：SteamCN
+# 数量：19条
 DOMAIN-SUFFIX,client-update.queniuqe.com
 DOMAIN,lv.queniujq.cn
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN-SUFFIX,csgo.wmsj.cn
-DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN,disable.invalid
+DOMAIN,csgo.wmsj.cn
+DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
-DOMAIN-SUFFIX,dota2.wmsj.cn
-DOMAIN-SUFFIX,st.dl.bscstorage.net
-DOMAIN-SUFFIX,st.dl.eccdnx.com
-DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN,dota2.wmsj.cn
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.pinyuncloud.com
 DOMAIN,steampipe.steamcontent.tnkjmec.com
-DOMAIN-SUFFIX,steampowered.com.8686c.com
-DOMAIN-SUFFIX,steamstatic.com.8686c.com
-DOMAIN-SUFFIX,wmsjsteam.com
+DOMAIN,steampowered.com.8686c.com
+DOMAIN,steamstatic.com.8686c.com
+DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,disable.invalid
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steamserver.net
-# 可选：阿里云上海 OSS（国区曾用 CDN，非 Steam 专用，按需）
-DOMAIN-SUFFIX,oss-cn-shanghai.aliyuncs.com
+DOMAIN,ext1-hkg1.steamserver.net
+DOMAIN,ext2-hkg1.steamserver.net
+DOMAIN,ext3-hkg1.steamserver.net
+DOMAIN,ext4-hkg1.steamserver.net
+DOMAIN,ext5-hkg1.steamserver.net
+DOMAIN,ext6-hkg1.steamserver.net
+DOMAIN,ext7-hkg1.steamserver.net
+DOMAIN,ext1-tyo3.steamserver.net
+DOMAIN,ext2-tyo3.steamserver.net
+DOMAIN,ext3-tyo3.steamserver.net
+DOMAIN,ext4-tyo3.steamserver.net
+DOMAIN,ext1-sgp1.steamserver.net
+DOMAIN,ext2-sgp1.steamserver.net
+DOMAIN,ext3-sgp1.steamserver.net
+DOMAIN,ext4-sgp1.steamserver.net
+DOMAIN,ext2-lax1.steamserver.net
+DOMAIN,cmp1-tyo3.steamserver.net
