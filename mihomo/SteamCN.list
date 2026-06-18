@@ -1,12 +1,9 @@
-# 内容：SteamCN
-# 数量：19条
+# 内容：SteamCN（国区下载直连）
+# 数量：20条（+1 可选）
+DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,client-update.queniuqe.com
 DOMAIN,lv.queniujq.cn
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
-
-DOMAIN,disable.invalid
-DOMAIN-SUFFIX,disable.invalid
-
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
@@ -19,9 +16,9 @@ DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
 DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
-
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steamserver.net
+# 可选：阿里云上海 OSS（国区曾用 CDN，非 Steam 专用，按需）
+DOMAIN-SUFFIX,oss-cn-shanghai.aliyuncs.com
