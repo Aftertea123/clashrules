@@ -1,0 +1,23 @@
+# Purpose: Steam store/community HTML, images, scripts and videos.
+# Format: Mihomo classical/text. Policy: game platform selector.
+# Priority: BEFORE SteamDownload and the broad SteamCN download set.
+# Migrated verbatim from Test's working overrides; no download routing changes.
+DOMAIN,store.steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN,store.akamai.steamstatic.com
+DOMAIN,store.fastly.steamstatic.com
+DOMAIN,community.akamai.steamstatic.com
+DOMAIN,community.fastly.steamstatic.com
+DOMAIN,avatars.akamai.steamstatic.com
+DOMAIN,avatars.fastly.steamstatic.com
+DOMAIN,shared.akamai.steamstatic.com
+DOMAIN,shared.fastly.steamstatic.com
+DOMAIN,cdn.akamai.steamstatic.com
+DOMAIN,cdn.fastly.steamstatic.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
+DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
+DOMAIN,video.akamai.steamstatic.com
+DOMAIN,video.fastly.steamstatic.com
+DOMAIN,video.cdn.queniuqe.com
+DOMAIN,shared.cdn.queniuqe.com

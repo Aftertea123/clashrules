@@ -1,0 +1,6 @@
+# 内容：推送服务
+DOMAIN-SUFFIX,short.weixin.qq.com
+DOMAIN-SUFFIX,long.weixin.qq.com
+DOMAIN-SUFFIX,dns.weixin.qq.com.cn
+PROCESS-NAME,com.samsung.android.sskds (1000)
+PROCESS-NAME,com.samsung.android.sskds

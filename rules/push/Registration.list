@@ -1,0 +1,7 @@
+# Purpose: FCM/Firebase registration APIs, separate from persistent push.
+# Format: Mihomo classical/text. Policy: Google services, NOT default DIRECT.
+# Priority: before the upstream AI googleapis.com suffix rule.
+# Source: https://firebase.google.com/docs/cloud-messaging/network-configuration
+DOMAIN,fcm.googleapis.com
+DOMAIN,fcmregistrations.googleapis.com
+DOMAIN,firebaseinstallations.googleapis.com

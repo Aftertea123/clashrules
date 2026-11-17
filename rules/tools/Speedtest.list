@@ -1,0 +1,4 @@
+# Purpose: preserve Test's speedtest keyword routing.
+# Format: Mihomo classical/text. Policy: network test selector.
+# Priority: immediately before the upstream Speedtest provider.
+DOMAIN-KEYWORD,speedtest

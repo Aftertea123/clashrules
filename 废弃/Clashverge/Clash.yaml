@@ -1,0 +1,25 @@
+[custom]
+
+;去广告：支持
+;自动测速：支持
+;微软分流：支持
+;苹果分流：支持
+;增强中国IP段：支持
+;增强国外GFW：支持
+;显示IP归属地应用伪装：支持
+;AI包括：OpenAI、Claude、Gemini、Copilot、Perplexity
+
+;设置规则标志位
+ruleset=🚀 国外流量,https://raw.githubusercontent.com/Aftertea123/clashrules/refs/heads/main/Clashverge/Clashrule.yaml
+
+;设置规则标志位
+
+;设置分组标志位
+custom_proxy_group=🚀 国外流量`select`.*
+
+;设置分组标志位
+
+enable_rule_generator=true
+overwrite_original_rules=true
+
+;clash_rule_base=https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashConfig.yml

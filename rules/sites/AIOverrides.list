@@ -1,0 +1,5 @@
+# Purpose: retain the explicitly selected AI policy for this site.
+# Format: Mihomo classical/text. Policy: AI selector.
+# Priority: before generic blocking, geographic and UDP/443 rules.
+# This file is a policy exception, not a claim that every host is an AI service.
+DOMAIN-SUFFIX,hybgzs.com

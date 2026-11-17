@@ -1,0 +1,5 @@
+# Purpose: explicit site/CDN proxy exceptions.
+# Format: Mihomo classical/text. Policy: foreign traffic selector.
+# Priority: before generic blocking, geographic and UDP/443 rules.
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,jsdelivr.net
