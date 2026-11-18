@@ -3,3 +3,7 @@
 # Priority: before generic blocking, geographic and UDP/443 rules.
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,jsdelivr.net
+# 91cg: site, image host, and HLS playlist host.
+DOMAIN-SUFFIX,91cg1.com
+DOMAIN,pic.nsxxlj.cn
+DOMAIN,op.udhhzr.cn
